@@ -11,7 +11,7 @@
 ## My Personal Projects
 
 ### It's Beer :
-<img src="assets/Screenshot_20200712-082027.jpg" width="220" height="400" />
+<img src="https://github.com/JuanCalavera/JuanCalavera/blob/master/assets/Screenshot_20200712-082027.jpg" width="220" height="400" />
 
 ### BookShelf :
 <p float="left">
