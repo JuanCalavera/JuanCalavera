@@ -15,24 +15,24 @@
 
 ### BookShelf :
 <p float="left">
-<img src="assets/Screenshot_20200712-082635.jpg" width="220" height="400" />
-<img src="assets/Screenshot_20200712-082629.jpg" width="220" height="400" />
+<img src="https://github.com/JuanCalavera/JuanCalavera/blob/master/assets/Screenshot_20200712-082635.jpg" width="220" height="400" />
+<img src="https://github.com/JuanCalavera/JuanCalavera/blob/master/assets/Screenshot_20200712-082629.jpg" width="220" height="400" />
 </p>
 
 ### Graphics using Flutter :
 
-<img src="assets/Screenshot_20200712-083204.jpg" width="220" height="400" />
+<img src="https://github.com/JuanCalavera/JuanCalavera/blob/master/assets/Screenshot_20200712-083204.jpg" width="220" height="400" />
 
 ### Change Light and Dark front with Flare animation(BlocPattern) :
 
 <p float="left">
-<img src="assets/Screenshot_20200712-083807.jpg" width="220" height="400" />
-<img src="assets/Screenshot_20200712-083811.jpg" width="220" height="400" />
+<img src="https://github.com/JuanCalavera/JuanCalavera/blob/master/assets/Screenshot_20200712-083807.jpg" width="220" height="400" />
+<img src="https://github.com/JuanCalavera/JuanCalavera/blob/master/assets/Screenshot_20200712-083811.jpg" width="220" height="400" />
 </p>
 
 ### E-Commerce:
 
-<img src="assets/test.gif" width="220" height="400" />
+<img src="https://github.com/JuanCalavera/JuanCalavera/blob/master/assets/test.gif" width="220" height="400" />
 
 ## Professional Projects
 
