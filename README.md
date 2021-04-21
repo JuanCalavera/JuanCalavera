@@ -2,11 +2,11 @@
 
 ## About me
 
-- 🌱 I am currently learning Flutter, Dart, Firebase and in the future i expect learn nodejs.
+- 🌱 I am currently learning Flutter, Dart, PHP, Laravel, Wordpress.
 - 🧐 I hope one day to i work with Web, Mobile or Game Development.
 - 💬 I am neither positive nor negative, and yes realistic.
-- ⚡ Technologies: Unity, Vuforia, Flutter, Wordpress, Bootstrap.
-- 💻 Languages: Dart, Javascript, C#, C, PHP, Ruby, HTML, CSS.
+- ⚡ Technologies: Unity, Vuforia, Flutter, Wordpress, Bootstrap, Jquery, PHP, Laravel.
+- 💻 Languages: Dart, Javascript, C#, C, PHP, HTML, CSS, Sass.
 
 ## My Personal Projects
 
@@ -36,6 +36,9 @@
 
 ## Professional Projects
 
+ - [MCO Contábil](https://www.minhacontabilidadeonline.com.br/)
+ - [Fast Medicamentos](https://www.fastmedicamentos.com.br/)
+ - [Preço Medicamentos](https://www.precomedicamentos.com.br/)
  - [Quinta do Malte](http://quintadomalte.com.br/)
  - [Moda de Fábrica](http://www.modadefabrica.com.br/)
  - [Sicoob Circuito das Águas](http://www.sicoobcircuitodasaguas.com.br/)
