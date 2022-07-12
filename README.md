@@ -5,8 +5,8 @@
 - 🌱 I am currently learning Flutter, Dart, PHP, Laravel, Wordpress.
 - 🧐 I hope one day to i work with Web, Mobile or Game Development.
 - 💬 I am neither positive nor negative, and yes realistic.
-- ⚡ Technologies: Unity, Vuforia, Flutter, Wordpress, Bootstrap, Jquery, PHP, Laravel.
-- 💻 Languages: Dart, Javascript, C#, C, PHP, HTML, CSS, Sass.
+- ⚡ Technologies(frameworks and libs): Unity, Vuforia, Flutter, Wordpress, Bootstrap, Jquery, PHP, Laravel.
+- 💻 Languages: Dart, Javascript, C#, C, PHP, HTML, CSS and Python.
 
 ## My Personal Projects
 
