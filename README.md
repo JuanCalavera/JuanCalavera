@@ -10,6 +10,10 @@
 
 ## My Personal Projects
 
+### [Products List Using Laravel](https://github.com/JuanCalavera/list_products)
+
+### [NLW Challenge](https://github.com/JuanCalavera/NLWChallenge)
+
 ### PHP Speak
 
 <img src="https://raw.githubusercontent.com/JuanCalavera/JuanCalavera/master/assets/Screen%20Shot%202021-04-21%20at%2017.58.56.png" width="400" height="200" />
